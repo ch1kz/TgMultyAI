@@ -1,0 +1,16 @@
+.env
+alice_accounts.json
+tg_multyai_accounts.json
+.venv/
+__pycache__/
+*.py[cod]
+
+sessions/
+*.session
+*.session-journal
+
+*.log
+alice-server*.log
+MasterCryptoFarmBot/
+smartbook-alice-media/
+tg-multyai-uploads-*/

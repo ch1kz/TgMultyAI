@@ -1,0 +1,8 @@
+telethon>=1.36.0
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+python-multipart>=0.0.9
+PySocks>=1.7.1
+python-socks[asyncio]>=2.4.0
